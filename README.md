@@ -9,6 +9,6 @@ Software Engineering Student at @UNIPAMPA
 
 Currently focused on my personal and professional improvement.
 
-Lover of cutting edge technologies and passionate about learning, I have a solid knowledge base in functional programming, Node.js, Javascript, Typescript, HTML, CSS, React, APIRest.
+Lover of cutting edge technologies and passionate about learning, I have a solid knowledge base in Functional Programming and Object Oriented, Node.js, Javascript, Typescript, HTML, CSS, React, APIRest, SQL and NoSQL.
 
 Call me for a ☕ and let's exchange some ideas. 🚀 
