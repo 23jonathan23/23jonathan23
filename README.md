@@ -1,6 +1,6 @@
 # Jonathan Raphael
 
-Software Developer Engineer at @Cappta 💚
+Software Engineer at @Cappta 💚
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Raphael-33cc80?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-raphael-12522a18a/)](https://www.linkedin.com/in/jonathan-raphael-12522a18a/)
 [![Gmail Badge](https://img.shields.io/badge/-jonathanraphael74@outlook.com-33cc80?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanraphael74@outlook.com)](mailto:jonathanraphael74@outlook.com)
