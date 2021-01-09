@@ -11,4 +11,6 @@ Currently focused on my personal and professional improvement.
 
 Lover of cutting edge technologies and passionate about learning, I have a solid knowledge base in Functional Programming and Object Oriented, Node.js, Javascript, Typescript, HTML, CSS, React, Next.js, APIRest, SQL and NoSQL.
 
+I am currently studying software architecture and venturing into C # using ASP.NET Core.
+
 Call me for a ☕ and let's exchange some ideas. 🚀 
