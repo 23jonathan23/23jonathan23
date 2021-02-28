@@ -9,8 +9,8 @@ Software Engineering Student at @UNIPAMPA
 
 Currently focused on my personal and professional improvement.
 
-Lover of cutting edge technologies and passionate about learning, I have a solid knowledge base in Functional Programming and Object Oriented, Node.js, Javascript, Typescript, HTML, CSS, React, Next.js, APIRest, SQL and NoSQL.
+Lover of cutting-edge technologies and passionate about learning, I have a solid knowledge base in Functional Programming and Object-Oriented, Node.js, Javascript, Typescript, HTML, CSS, React, Next.js, API RestFul, SQL, and NoSQL. Other technologies I have knowledge and practice: C# with ASP.NET, ASP.NET Core, and Java.
 
-I am currently studying software architecture and venturing into C # using ASP.NET Core.
+I am currently studying software architecture and design patterns.
 
 Call me for a ☕ and let's exchange some ideas. 🚀 
