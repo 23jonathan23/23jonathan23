@@ -14,3 +14,8 @@ Lover of cutting-edge technologies and passionate about learning, I have a solid
 I am currently studying software architecture and design patterns.
 
 Call me for a ☕ and let's exchange some ideas. 🚀 
+
+<a href="https://github.com/camilasmarques">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=23jonathan23&theme=tokyonight&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23jonathan23&layout=compact&theme=tokyonight"/>
+<div>
