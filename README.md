@@ -2,8 +2,8 @@
 
 Software Engineer at @Cappta 💙
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Raphael-1E90FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-raphael-12522a18a/)](https://www.linkedin.com/in/jonathan-raphael-12522a18a/)
-[![Gmail Badge](https://img.shields.io/badge/-jonathanraphael74@outlook.com-1E90FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanraphael74@outlook.com)](mailto:jonathanraphael74@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-raphael-12522a18a/)](https://www.linkedin.com/in/jonathan-raphael-12522a18a/)
+[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:jonathanraphael74@outlook.com)](mailto:jonathanraphael74@outlook.com)
 
 Software Engineering Student at @UNIPAMPA
 
