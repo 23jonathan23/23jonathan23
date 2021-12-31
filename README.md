@@ -9,9 +9,9 @@ Software Engineering Student at @UNIPAMPA
 
 Currently focused on my personal and professional improvement.
 
-Lover of cutting-edge technologies and passionate about learning, I have a solid knowledge base in Functional Programming and Object-Oriented ,C#, .NET Framework, .NET Core, Node.js, Javascript, Typescript, HTML, CSS, React, Next.js, API RestFul, SQL, and NoSQL. Other technologies I have knowledge and practice:  Java and Spring Boot with Maven.
+Lover of cutting-edge technologies and passionate about learning, I have a solid knowledge base in Software Architecture, Design Patterns, Functional Programming and Object-Oriented ,C#, .NET, Node.js, Javascript, Typescript, HTML, CSS, React, API RestFul, SQL, and NoSQL. Other technologies I have knowledge and practice:  Java and Spring Boot with Maven.
 
-I am currently studying software architecture and design patterns.
+I am currently studying and developing as a leader.
 
 Call me for a ☕ and let's exchange some ideas. 🚀
 
