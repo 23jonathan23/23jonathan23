@@ -9,8 +9,3 @@ There is nothing that excites me more than a good conversation about innovation 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-raphael-12522a18a/)](https://www.linkedin.com/in/jonathan-raphael-12522a18a/)
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:jonathanraphael74@outlook.com)](mailto:jonathanraphael74@outlook.com)
-
-<a href="https://github.com/23jonathan23">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=23jonathan23&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23jonathan23&layout=compact&langs_count=8&theme=tokyonight"/>
-<div>
